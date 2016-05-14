@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Print_A_Triangle Chapt 12\Print_A_Triangle Chapt 12\bin\Debug\Print_A_Triangle Chapt 12.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Print_A_Triangle Chapt 12\Print_A_Triangle Chapt 12\bin\Debug\Print_A_Triangle Chapt 12.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Print_A_Triangle Chapt 12\Print_A_Triangle Chapt 12\bin\Debug\Print_A_Triangle Chapt 12.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Print_A_Triangle Chapt 12\Print_A_Triangle Chapt 12\obj\Debug\Print_A_Triangle Chapt 12.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Print_A_Triangle Chapt 12\Print_A_Triangle Chapt 12\obj\Debug\Print_A_Triangle Chapt 12.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Print_A_Triangle Chapt 12\Print_A_Triangle Chapt 12\obj\Debug\Print_A_Triangle Chapt 12.pdb
